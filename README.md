@@ -1,1 +1,1 @@
-# Application Tracker
+# Stack template
